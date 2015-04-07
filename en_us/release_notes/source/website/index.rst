@@ -2,6 +2,13 @@
 edX Website
 ####################################
 
+******************
+April 15, 2015
+******************
+
+To improve accessibility, corrections were made to several website pages.
+These corrections affected element tags and color contrast. (ECOM-1303,
+ECOM-1304, ECOM-1305, UX-1949)
 
 ******************
 March 25, 2015

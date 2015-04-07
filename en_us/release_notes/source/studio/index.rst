@@ -2,6 +2,14 @@
 edX Studio
 ####################################
 
+******************
+April 15, 2015
+******************
+
+For video components, the Advanced Settings page includes a renamed field"
+**Video ID**. Previously, thei field was named **EdX Video ID**.
+
+For more information, see `Working with Video Components`_.
 
 ******************
 March 25, 2015
@@ -55,9 +63,9 @@ Accessibility Improvements
 * The **Schedule & Details**, **Group Configurations**, **Advanced Settings**,
   and **Grading** pages now include `aria-label` attributes. (TNL-1532)
 
-* All page actions in Studio now have `aria-label` attributes. (TNL-1531)
+* All page actions in Studio now have ``aria-label`` attributes. (TNL-1531)
   
-* Navigation controls in the Studio header now have `aria-label` attributes.
+* Navigation controls in the Studio header now have ``aria-label`` attributes.
   (TNL-1520, TNL-1523)
 
 ******************

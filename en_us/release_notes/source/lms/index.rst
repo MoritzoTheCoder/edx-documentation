@@ -2,6 +2,12 @@
 edX Learning Management System
 ####################################
 
+******************
+April 15, 2015
+******************
+
+Beta testers can now access and submit responses to open response problems
+before they are released. (TNL-1736)
 
 ******************
 March 31, 2015
