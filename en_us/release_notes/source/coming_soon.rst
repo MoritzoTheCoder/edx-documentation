@@ -12,7 +12,7 @@ Learner Profiles
 
 Learners and staff will soon be able to introduce themselves to the edX
 community through personal profiles. A profile can include an image, a
-personal introduction, and other information. Leareners can access each
+personal introduction, and other information. Learners can access each
 others' profiles from within the course discussions.
 
 Additionally, a new **Account Settings** page will be available. Learners use
