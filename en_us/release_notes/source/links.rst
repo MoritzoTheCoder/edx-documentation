@@ -446,3 +446,5 @@
 .. _Student Performance: http://edx-insights.readthedocs.org/en/latest/performance/index.html
 
 .. _edX Style Guidelines: http://edx.readthedocs.org/projects/edx-developer-guide/en/latest/style_guides/index.html
+
+.. _Recommender: http://edx.readthedocs.org/projects/edx-partner-course-staff/en/latest/exercises_tools/recommenderXBlock.html#recommenderxblock

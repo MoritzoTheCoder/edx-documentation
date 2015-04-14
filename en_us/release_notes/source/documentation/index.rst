@@ -23,7 +23,7 @@ Building and Running an edX Course
 * Added the `Timer Between Attempts`_ topic to the "Working with
   Problem Components" section.
 
-* Added information about the :ref:`RecommenderXBlock` tool.
+* Added information about the `Recommender`_ tool.
 
 ==================================
 edX Research Guide

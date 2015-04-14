@@ -12,10 +12,13 @@ Learner Profiles
 
 Learners and staff will soon be able to introduce themselves to the edX
 community through personal profiles. A profile can include an image, a
-personal introduction, and other information. Additionally, a new **Account
-Settings** page will soon be available. Learners use this page to update user
-account information, such as email addresses and passwords, and demographic
-information, such as amount of education completed and country or region.
+personal introduction, and other information. Leareners can access each
+others' profiles from within the course discussions.
+
+Additionally, a new **Account Settings** page will be available. Learners use
+this page to update their account information, such as email addresses and
+passwords, and demographic information, such as level of education and country
+or region.
 
 *************
 Student Notes
