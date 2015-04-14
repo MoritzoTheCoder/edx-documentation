@@ -8,9 +8,9 @@ April 9, 2015
 
 Course teams can now use edX Insights to access student performance data for
 both graded and ungraded exercises. The number of students who submitted an
-answer, and the percentage who submitted correct and incorrect answer, is
+answer, and the percentage who submitted the correct or incorrect answer, is
 available at the section, subsection, and unit level. The actual answers that
-students submit for each ungraded question is also available.
+students submit for each ungraded question are also available for review.
 
 For more information, see the new `Ungraded Problem Submissions`_ section in
 the *Using edX Insights* guide.

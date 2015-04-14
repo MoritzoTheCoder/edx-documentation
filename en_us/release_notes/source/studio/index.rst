@@ -6,8 +6,8 @@ edX Studio
 April 15, 2015
 ******************
 
-For video components, the Advanced Settings page includes a renamed field"
-**Video ID**. Previously, thei field was named **EdX Video ID**.
+The video component **Advanced Settings** page includes a renamed field, 
+**Video ID**. Previously, this field was named **EdX Video ID**.
 
 For more information, see `Working with Video Components`_.
 
